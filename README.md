@@ -1056,8 +1056,8 @@ As said before, this can be put in every class, depending on the context.
 ### **References**
 
 Getting started:
-		- https://www.automatetheplanet.com/getting-started-webdriver/
-		- official documentation: https://www.selenium.dev/documentation/en/
+		*- https://www.automatetheplanet.com/getting-started-webdriver/
+		*- official documentation: https://www.selenium.dev/documentation/en/
 
 Page object model
 	    - https://www.selenium.dev/documentation/en/guidelines_and_recommendations/page_object_models/
